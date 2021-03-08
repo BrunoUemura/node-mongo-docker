@@ -9,4 +9,4 @@ A simple Node + MongoDB + Docker application
 - docker-compose up
 
 ## Reference
-Reference [YouTube](https://www.youtube.com/watch?v=w1v6dspnubq)
+Reference [YouTube](https://www.youtube.com/watch?v=w1v6DspnUBQ)
